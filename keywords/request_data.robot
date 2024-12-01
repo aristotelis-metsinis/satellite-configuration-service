@@ -5,7 +5,7 @@ Documentation   Request data utilised by project's keywords and test cases
 ${VALID_ID}                           1
 ${INVALID_ID}                         9999  # Assumes this ID doesn't exist
 ${INVALID_ID_FORMAT}                  invalid_id
-${UNKNOWN_PAYLOAD_FIELD}		      data_downlink_frequency_band
+${UNKNOWN_PAYLOAD_FIELD}              data_downlink_frequency_band
 #
 &{REQ_VALID_OPTICAL_PAYLOAD}          cospar_id=2024-111GR    name=New Satellite Mission      type=OPTICAL
 &{REQ_VALID_OPTIC_PAYLOAD}            cospar_id=2024-111GR    name=New Satellite Mission      type=OPTIC
