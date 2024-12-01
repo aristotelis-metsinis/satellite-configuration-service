@@ -1,0 +1,20 @@
+# Ignore JetBrains project files (PyCharm, etc.)
+.idea/
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore log files
+# log/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore test output directories
+test-output/
+
