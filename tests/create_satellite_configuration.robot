@@ -17,9 +17,7 @@ TC01 - Create Valid Configuration
     [Setup]             Clear Mission Configuration Database
     [Template]          Create Satellite Configuration
     &{REQ_VALID_OPTICAL_PAYLOAD}
-    &{REQ_VALID_OPTIC_PAYLOAD}
     &{REQ_VALID_SAR_PAYLOAD}
-    &{REQ_VALID_SARS_PAYLOAD}
     &{REQ_VALID_TELECOM_PAYLOAD}
 
 TC02 - Invalid COSPAR ID
