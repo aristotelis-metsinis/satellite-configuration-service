@@ -3,9 +3,9 @@ Documentation   Response data processed by project's keywords and test cases
 Library         String
 
 *** Variables ***
-${MISSION_CONFIG_CREATED_DATA_MSG}          Mission configuration created successfully.
-${MISSION_CONFIG_UPDATED_DATA_MSG}          Mission configuration updated successfully.
-${MISSION_CONFIG_DELETED_DATA_MSG}          Mission configuration deleted successfully.
+${MISSION_CONFIG_CREATED_DATA_MSG}          Mission config created successfully.
+${MISSION_CONFIG_UPDATED_DATA_MSG}          Mission config updated successfully.
+${MISSION_CONFIG_DELETED_DATA_MSG}          Mission config deleted successfully.
 ${INVALID_COSPAR_ID_ERROR_MSG}	            invalid request due to invalid COSPAR ID
 ${INVALID_PAYLOAD_TYPE_ERROR_MSG}           invalid request due to invalid payload type
 ${REQUIRED_COSPAR_ID_ERROR_MSG}	            invalid request due to cospar ID is required
