@@ -7,7 +7,7 @@ Library             JSONLibrary
 ${BASE_URL}             http://localhost:1234
 ${CONFIGURATION_URL}    /configs
 &{HEADERS}              Content-Type=application/json
-${MAX_CONFIGS}          10
+${MAX_CONFIGS}          6
 
 *** Keywords ***
 Create Session with Satellite Configuration Service
